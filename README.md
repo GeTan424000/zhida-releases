@@ -6,7 +6,7 @@ Windows 本地求职助手：上传简历、整理求职画像、推荐岗位、
 
 ## 使用
 
-1. 下载发布附件 `zhida-assistant-windows-v1.2.0.zip`，完整解压到自己的文件夹。
+1. 下载最新发布中的 Windows ZIP 安装包，完整解压到自己的文件夹。
 2. 双击 `启动职达助手.exe`。支持 Windows 10/11 64 位，需要 Microsoft Edge，无需另装 Node.js。
 3. 上传 PDF、DOCX、TXT 或 Markdown 简历，核对本地规则提取的画像，设置求职偏好。
 4. 登录自己的招聘平台账号，确认平台简历与当前版本一致，再推荐岗位、审核并投递。
